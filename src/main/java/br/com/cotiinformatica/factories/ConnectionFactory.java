@@ -15,7 +15,7 @@ public class ConnectionFactory {
 			
 			//variaveis para conexao com o MySQL
 			var host = "jdbc:postgresql://localhost:5432/bd_agendatarefas";
-			var user = "postgre";
+			var user = "postgres";
 			var pass = "coti";
 			
 			//abrindo e retornado a conexao com o banco de dados
